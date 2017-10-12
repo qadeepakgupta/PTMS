@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31206" started-at="2017-10-11T11:15:38Z" finished-at="2017-10-11T11:16:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31206" started-at="2017-10-11T11:15:38Z" finished-at="2017-10-11T11:16:09Z">
+      <class name="com.ptms.loginPage.VerifyLoginCredentails">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ptms.loginPage.VerifyLoginCredentails@2c039ac6]" name="setUp" is-config="true" duration-ms="7362" started-at="2017-10-11T16:45:38Z" finished-at="2017-10-11T16:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.ptms.loginPage.VerifyLoginCredentails@2c039ac6]" name="beforeMethod" is-config="true" duration-ms="8" started-at="2017-10-11T16:45:45Z" finished-at="2017-10-11T16:45:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ptms.loginPage.VerifyLoginCredentails.testLoginCredentails() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginCredentails()[pri:0, instance:com.ptms.loginPage.VerifyLoginCredentails@2c039ac6]" name="testLoginCredentails" duration-ms="23463" started-at="2017-10-11T16:45:45Z" finished-at="2017-10-11T16:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginCredentails -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.ptms.loginPage.VerifyLoginCredentails@2c039ac6]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-10-11T16:46:08Z" finished-at="2017-10-11T16:46:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginCredentails status=SUCCESS method=VerifyLoginCredentails.testLoginCredentails()[pri:0, instance:com.ptms.loginPage.VerifyLoginCredentails@2c039ac6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.ptms.loginPage.VerifyLoginCredentails@2c039ac6]" name="endTest" is-config="true" duration-ms="331" started-at="2017-10-11T16:46:08Z" finished-at="2017-10-11T16:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.ptms.loginPage.VerifyLoginCredentails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

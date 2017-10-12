@@ -1,0 +1,30 @@
+2017-10-11 16:45:40 INFO  TestBase:108 - Operaing System: windows 7, Browser Name and Version: chrome 61.0.3163.100
+2017-10-11 16:45:41 INFO  TestBase:155 - Navigating to :-http://192.168.5.38:8080/PTMS/login
+2017-10-11 16:45:45 INFO  VerifyLoginCredentails:35 - ============= Starting testLoginCredentails() Test =============
+2017-10-11 16:45:45 INFO  LoginPage:50 - Starting loginToApplication() method 
+2017-10-11 16:45:45 INFO  LoginPage:53 - entered username:-deepak.gupta and object is [[ChromeDriver: chrome on XP (1e80b38af784d8a41a56f9a8267ea16c)] -> id: t1]
+2017-10-11 16:45:45 INFO  LoginPage:55 - entered password:-deepak!1 and object is [[ChromeDriver: chrome on XP (1e80b38af784d8a41a56f9a8267ea16c)] -> id: p1]
+2017-10-11 16:45:49 INFO  LoginPage:59 - clicked on login button and object is:- [[ChromeDriver: chrome on XP (1e80b38af784d8a41a56f9a8267ea16c)] -> xpath: //span[contains(text(),'Login')]]
+2017-10-11 16:45:51 INFO  LoginPage:67 - Starting checkCurrentSession() method 
+2017-10-11 16:45:53 INFO  LoginPage:72 - You are currently logged in from a different session. PopUp is displayed and option Yes is clicked for continue
+2017-10-11 16:45:53 INFO  LoginPage:74 - Ending checkCurrentSession() method 
+2017-10-11 16:45:53 INFO  LoginPage:61 - Ending loginToApplication() method 
+2017-10-11 16:45:55 INFO  DashboardPage:45 - Dashboard panel heading is:- View Task Dashboard
+2017-10-11 16:45:55 INFO  DashboardPage:69 - entered task name:-Testing Mobile and Web App Functionality and object is [[ChromeDriver: chrome on XP (1e80b38af784d8a41a56f9a8267ea16c)] -> xpath: //label[text()='Project Name']//following :: input[3]]
+2017-10-11 16:45:55 INFO  DashboardPage:71 - clicked on Search button and object is:- [[ChromeDriver: chrome on XP (1e80b38af784d8a41a56f9a8267ea16c)] -> xpath: //span[contains(text(),'Search')]]
+2017-10-11 16:46:08 INFO  DashboardPage:53 - clicked on update task icon and object is:- Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='1gridupdate']/span/span'
+2017-10-11 16:46:08 INFO  VerifyLoginCredentails:47 - ============= Finished testLoginCredentails() Test =============
+2017-10-11 16:47:11 INFO  TestBase:108 - Operaing System: windows 7, Browser Name and Version: chrome 61.0.3163.100
+2017-10-11 16:47:11 INFO  TestBase:155 - Navigating to :-http://192.168.5.38:8080/PTMS/login
+2017-10-11 16:47:16 INFO  VerifyLoginCredentails:35 - ============= Starting testLoginCredentails() Test =============
+2017-10-11 16:47:16 INFO  LoginPage:50 - Starting loginToApplication() method 
+2017-10-11 16:47:16 INFO  LoginPage:53 - entered username:-deepak.gupta and object is [[ChromeDriver: chrome on XP (324b4883532576e79914c4d2eda158d6)] -> id: t1]
+2017-10-11 16:47:17 INFO  LoginPage:55 - entered password:-deepak!1 and object is [[ChromeDriver: chrome on XP (324b4883532576e79914c4d2eda158d6)] -> id: p1]
+2017-10-11 16:47:20 INFO  LoginPage:59 - clicked on login button and object is:- [[ChromeDriver: chrome on XP (324b4883532576e79914c4d2eda158d6)] -> xpath: //span[contains(text(),'Login')]]
+2017-10-11 16:47:22 INFO  LoginPage:67 - Starting checkCurrentSession() method 
+2017-10-11 16:47:22 INFO  LoginPage:72 - You are currently logged in from a different session. PopUp is displayed and option Yes is clicked for continue
+2017-10-11 16:47:22 INFO  LoginPage:74 - Ending checkCurrentSession() method 
+2017-10-11 16:47:22 INFO  LoginPage:61 - Ending loginToApplication() method 
+2017-10-11 16:47:26 INFO  DashboardPage:45 - Dashboard panel heading is:- View Task Dashboard
+2017-10-11 16:47:27 INFO  DashboardPage:69 - entered task name:-Testing Mobile and Web App Functionality and object is [[ChromeDriver: chrome on XP (324b4883532576e79914c4d2eda158d6)] -> xpath: //label[text()='Project Name']//following :: input[3]]
+2017-10-11 16:47:27 INFO  DashboardPage:71 - clicked on Search button and object is:- [[ChromeDriver: chrome on XP (324b4883532576e79914c4d2eda158d6)] -> xpath: //span[contains(text(),'Search')]]
